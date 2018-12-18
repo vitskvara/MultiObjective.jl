@@ -1,0 +1,7 @@
+name = "MultiObjective"
+uuid = "53bec06c-fec0-11e8-3c17-67bdb2c4b764"
+authors = ["vit.skvara <vit.skvara@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
